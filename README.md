@@ -10,4 +10,4 @@
  Il vous suffit de télécharger ce dossier et de lancer l'executable associé pour jouer au jeu.
 
 ## Aperçu de la petite aventure de bloup
- 
+![Image of Game](https://github.com/redwappin/gontard-delbecq-projet-sp--bloup/blob/master/images/jeu.PNG)
